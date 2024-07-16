@@ -1,0 +1,60 @@
+<!-- Progen Itali GTB = McLaren 570S -->
+<Item type="CHandlingData">
+    <handlingName>italigtb</handlingName>
+    <fMass value="1452.000000"/>
+    <fInitialDragCoeff value="0.320000"/>
+    <fPercentSubmerged value="85.000000"/>
+    <vecCentreOfMassOffset x="0.000000" y="-0.349200" z="0.106000"/>
+    <vecInertiaMultiplier x="1.300000" y="1.100000" z="1.900000"/>
+    <fDriveBiasFront value="0.000000"/>
+    <nInitialDriveGears value="7"/>
+    <fInitialDriveForce value="0.413912"/>
+    <fDriveInertia value="0.900000"/>
+    <fClutchChangeRateScaleUpShift value="3.000000"/>
+    <fClutchChangeRateScaleDownShift value="3.200000"/>
+    <fInitialDriveMaxFlatVel value="232.880000"/>
+    <fBrakeForce value="1.200000"/>
+    <fBrakeBiasFront value="0.650000"/>
+    <fHandBrakeForce value="0.500000"/>
+    <fSteeringLock value="29.500027"/>
+    <fTractionCurveMax value="2.500000"/>
+    <fTractionCurveMin value="2.000000"/>
+    <fTractionCurveLateral value="25.000000"/>
+    <fTractionSpringDeltaMax value="0.150000"/>
+    <fLowSpeedTractionLossMult value="1.200000"/>
+    <fCamberStiffnesss value="0.000000"/>
+    <fTractionBiasFront value="0.485000"/>
+    <fTractionLossMult value="1.000000"/>
+    <fSuspensionForce value="2.800000"/>
+    <fSuspensionCompDamp value="1.500000"/>
+    <fSuspensionReboundDamp value="3.000000"/>
+    <fSuspensionUpperLimit value="0.050000"/>
+    <fSuspensionLowerLimit value="-0.070000"/>
+    <fSuspensionRaise value="0.020000"/>
+    <fSuspensionBiasFront value="0.420000"/>
+    <fAntiRollBarForce value="1.500000"/>
+    <fAntiRollBarBiasFront value="0.520000"/>
+    <fRollCentreHeightFront value="0.272500"/>
+    <fRollCentreHeightRear value="0.290500"/>
+    <fCollisionDamageMult value="0.650000"/>
+    <fWeaponDamageMult value="0.900000"/>
+    <fDeformationDamageMult value="0.600000"/>
+    <fEngineDamageMult value="1.200000"/>
+    <fPetrolTankVolume value="65.000000"/>
+    <fOilVolume value="5.000000"/>
+    <fSeatOffsetDistX value="0.000000"/>
+    <fSeatOffsetDistY value="0.000000"/>
+    <fSeatOffsetDistZ value="0.000000"/>
+    <nMonetaryValue value="80000"/>
+    <fRocketBoostCapacity value="1.250000"/>
+    <fBoostMaxSpeed value="70.000000"/>
+    <strModelFlags>00C40040</strModelFlags>
+    <strHandlingFlags>00800102</strHandlingFlags>
+    <strDamageFlags>00000000</strDamageFlags>
+    <AIHandling>AVERAGE</AIHandling>
+    <SubHandlingData>
+        <Item type="NULL"/>
+        <Item type="NULL"/>
+        <Item type="NULL"/>
+    </SubHandlingData>
+</Item>
