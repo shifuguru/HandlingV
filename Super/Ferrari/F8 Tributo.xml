@@ -1,18 +1,18 @@
-<!-- Grotti Cheetah = Ferrari Enzo -->
+<!-- Grotti Turismo Omaggio = Ferrari F8 Tributo -->
 <Item type="CHandlingData">
-    <handlingName>turismo2</handlingName>
-    <fMass value="1369.000000"/>
-    <fInitialDragCoeff value="0.340000"/>
+    <handlingName>turismo3</handlingName>
+    <fMass value="1435.000000"/>
+    <fInitialDragCoeff value="0.320000"/>
     <fPercentSubmerged value="85.000000"/>
-    <vecCentreOfMassOffset x="0.000000" y="-0.292600" z="-0.110000"/>
+    <vecCentreOfMassOffset x="0.000000" y="-0.40025" z="0.002200"/>
     <vecInertiaMultiplier x="1.300000" y="1.100000" z="1.900000"/>
     <fDriveBiasFront value="0.000000"/>
-    <nInitialDriveGears value="5"/>
-    <fInitialDriveForce value="0.420015"/>
+    <nInitialDriveGears value="7"/>
+    <fInitialDriveForce value="0.536585"/>
     <fDriveInertia value="0.900000"/>
-    <fClutchChangeRateScaleUpShift value="3.200000"/>
-    <fClutchChangeRateScaleDownShift value="2.800000"/>
-    <fInitialDriveMaxFlatVel value="232.170000"/>
+    <fClutchChangeRateScaleUpShift value="4.900000"/>
+    <fClutchChangeRateScaleDownShift value="4.700000"/>
+    <fInitialDriveMaxFlatVel value="241.400000"/>
     <fBrakeForce value="1.200000"/>
     <fBrakeBiasFront value="0.650000"/>
     <fHandBrakeForce value="0.500000"/>
@@ -31,7 +31,7 @@
     <fSuspensionUpperLimit value="0.050000"/>
     <fSuspensionLowerLimit value="-0.070000"/>
     <fSuspensionRaise value="0.020000"/>
-    <fSuspensionBiasFront value="0.420000"/>
+    <fSuspensionBiasFront value="0.415000"/>
     <fAntiRollBarForce value="1.500000"/>
     <fAntiRollBarBiasFront value="0.520000"/>
     <fRollCentreHeightFront value="0.272500"/>
