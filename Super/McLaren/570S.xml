@@ -2,7 +2,7 @@
 <Item type="CHandlingData">
     <handlingName>italigtb</handlingName>
     <fMass value="1452.000000"/>
-    <fInitialDragCoeff value="0.320000"/>
+    <fInitialDragCoeff value="3.200000"/>
     <fPercentSubmerged value="85.000000"/>
     <vecCentreOfMassOffset x="0.000000" y="-0.349200" z="0.106000"/>
     <vecInertiaMultiplier x="1.300000" y="1.100000" z="1.900000"/>

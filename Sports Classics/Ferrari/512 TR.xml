@@ -1,18 +1,18 @@
-<!-- Grotti Cheetah = Ferrari Enzo -->
+<!-- Grotti Cheetah Classic = Ferrari 512 Testarossa -->
 <Item type="CHandlingData">
-    <handlingName>cheetah</handlingName>
-    <fMass value="1480.000000"/>
-    <fInitialDragCoeff value="3.200000"/>
+    <handlingName>cheetah2</handlingName>
+    <fMass value="1708.200000"/>
+    <fInitialDragCoeff value="3.500000"/>
     <fPercentSubmerged value="85.000000"/>
-    <vecCentreOfMassOffset x="0.000000" y="-0.356800" z="-0.150000"/>
+    <vecCentreOfMassOffset x="0.000000" y="-0.3464600" z="-0.110000"/>
     <vecInertiaMultiplier x="1.300000" y="1.100000" z="1.900000"/>
     <fDriveBiasFront value="0.000000"/>
-    <nInitialDriveGears value="6"/>
-    <fInitialDriveForce value="0.443919"/>
+    <nInitialDriveGears value="5"/>
+    <fInitialDriveForce value="0.420015"/>
     <fDriveInertia value="0.900000"/>
-    <fClutchChangeRateScaleUpShift value="4.800000"/>
-    <fClutchChangeRateScaleDownShift value="4.300000"/>
-    <fInitialDriveMaxFlatVel value="252.050000"/>
+    <fClutchChangeRateScaleUpShift value="3.200000"/>
+    <fClutchChangeRateScaleDownShift value="2.800000"/>
+    <fInitialDriveMaxFlatVel value="232.170000"/>
     <fBrakeForce value="1.200000"/>
     <fBrakeBiasFront value="0.650000"/>
     <fHandBrakeForce value="0.500000"/>
@@ -31,7 +31,7 @@
     <fSuspensionUpperLimit value="0.050000"/>
     <fSuspensionLowerLimit value="-0.070000"/>
     <fSuspensionRaise value="0.020000"/>
-    <fSuspensionBiasFront value="0.440000"/>
+    <fSuspensionBiasFront value="0.420000"/>
     <fAntiRollBarForce value="1.500000"/>
     <fAntiRollBarBiasFront value="0.520000"/>
     <fRollCentreHeightFront value="0.272500"/>
@@ -40,7 +40,7 @@
     <fWeaponDamageMult value="0.900000"/>
     <fDeformationDamageMult value="0.600000"/>
     <fEngineDamageMult value="1.200000"/>
-    <fPetrolTankVolume value="95.000000"/>
+    <fPetrolTankVolume value="65.000000"/>
     <fOilVolume value="5.000000"/>
     <fSeatOffsetDistX value="0.000000"/>
     <fSeatOffsetDistY value="0.000000"/>
