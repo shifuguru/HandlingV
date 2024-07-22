@@ -49,7 +49,7 @@
     <fRocketBoostCapacity value="1.250000"/>
     <fBoostMaxSpeed value="70.000000"/>
     <strModelFlags>00C40040</strModelFlags>
-    <strHandlingFlags>00800102</strHandlingFlags>
+    <strHandlingFlags>00800002</strHandlingFlags>
     <strDamageFlags>00000000</strDamageFlags>
     <AIHandling>AVERAGE</AIHandling>
     <SubHandlingData>
