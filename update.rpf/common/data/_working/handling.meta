@@ -21858,15 +21858,15 @@
 		<!-- Grotti Cheetah = Ferrari Enzo -->
 		<Item type="CHandlingData">
 			<handlingName>CHEETAH</handlingName>
-			<fMass value="1365.000000"/>
+			<fMass value="1400.000000"/>
 			<fInitialDragCoeff value="3.2000000"/>
 			<fDownforceModifier value="2.000000"/>
 			<fPercentSubmerged value="85.000000"/>
-			<vecCentreOfMassOffset x="0.000000" y="-0.205000" z="0.216000"/>
+			<vecCentreOfMassOffset x="0.000000" y="-0.3568" z="0.216000"/>
 			<vecInertiaMultiplier x="1.130000" y="1.490000" z="2.130000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.481319"/>
+			<fInitialDriveForce value="0.469286"/>
 			<fDriveInertia value="1.3000000"/>
 			<fClutchChangeRateScaleUpShift value="5.000000"/>
 			<fClutchChangeRateScaleDownShift value="4.500000"/>
@@ -21889,7 +21889,7 @@
 			<fSuspensionUpperLimit value="0.040000"/>
 			<fSuspensionLowerLimit value="-0.080000"/>
 			<fSuspensionRaise value="0.000000"/>
-			<fSuspensionBiasFront value="0.500000"/>
+			<fSuspensionBiasFront value="0.440000"/>
 			<fAntiRollBarForce value="0.000000"/>
 			<fAntiRollBarBiasFront value="0.530000"/>
 			<fRollCentreHeightFront value="0.204000"/>
