@@ -21909,11 +21909,7 @@
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>SPORTS_CAR</AIHandling>
 			<SubHandlingData>
-				<Item type="CCarHandlingData">
-					<fBackEndPopUpCarImpulseMult value="0.255000"/>
-					<fBackEndPopUpBuildingImpulseMult value="0.030000"/>
-					<fBackEndPopUpMaxDeltaSpeed value="1.250000"/>
-				</Item>
+				<Item type="NULL"/>
 				<Item type="NULL"/>
 				<Item type="NULL"/>
 			</SubHandlingData>
@@ -22682,15 +22678,15 @@
 		<!-- Grotti X80 Proto = Ferrari FXX -->
 		<Item type="CHandlingData">
 			<handlingName>PROTOTIPO</handlingName>
-			<fMass value="1155.000000"/>
+			<fMass value="1239.000000"/>
 			<fInitialDragCoeff value="3.000000"/>
 			<fDownforceModifier value="3.000000"/>
 			<fPercentSubmerged value="85.000000"/>
-			<vecCentreOfMassOffset x="0.000000" y="-0.005000" z="0.447400"/>
+			<vecCentreOfMassOffset x="0.000000" y="-0.084500" z="0.447400"/>
 			<vecInertiaMultiplier x="1.080000" y="1.430000" z="1.980000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.593939"/>
+			<fInitialDriveForce value="0.553672"/>
 			<fDriveInertia value="1.200000"/>
 			<fClutchChangeRateScaleUpShift value="5.500000"/>
 			<fClutchChangeRateScaleDownShift value="5.000000"/>
@@ -22698,12 +22694,12 @@
 			<fBrakeForce value="0.542000"/>
 			<fBrakeBiasFront value="0.482330"/>
 			<fHandBrakeForce value="0.780000"/>
-			<fSteeringLock value="40.000000"/>
+			<fSteeringLock value="36.000000"/>
 			<fTractionCurveMax value="2.590000"/>
 			<fTractionCurveMin value="2.541000"/>
 			<fTractionCurveLateral value="16.300000"/>
 			<fTractionSpringDeltaMax value="0.125000"/>
-			<fLowSpeedTractionLossMult value="0.0"/>
+			<fLowSpeedTractionLossMult value="0.000000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.477100"/>
 			<fTractionLossMult value="1.980000"/>
@@ -22713,7 +22709,7 @@
 			<fSuspensionUpperLimit value="0.020000"/>
 			<fSuspensionLowerLimit value="-0.060000"/>
 			<fSuspensionRaise value="0.000000"/>
-			<fSuspensionBiasFront value="0.500000"/>
+			<fSuspensionBiasFront value="0.470000"/>
 			<fAntiRollBarForce value="0.000000"/>
 			<fAntiRollBarBiasFront value="0.600000"/>
 			<fRollCentreHeightFront value="0.233000"/>
@@ -22733,11 +22729,6 @@
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>SPORTS_CAR</AIHandling>
 			<SubHandlingData>
-				<Item type="CCarHandlingData">
-					<fBackEndPopUpCarImpulseMult value="0.200000"/>
-					<fBackEndPopUpBuildingImpulseMult value="0.330000"/>
-					<fBackEndPopUpMaxDeltaSpeed value="1.000000"/>
-				</Item>
 				<Item type="NULL"/>
 				<Item type="NULL"/>
 				<Item type="NULL"/>
